@@ -1,6 +1,24 @@
-# quarto_app_flutter_final
 
-Meu quarto app flutter do Curso
+## Aplicativo simulando uma Empresa de Consultoria, para demonstrar Navegabilidade entre as telas
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App4
+
+### Conceitos | Implementações:
+- Widgets e Material design
+- Estrutura de um App
+- Formatação de campos e textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold e SingleChildScrollView
+- Stateless & Stateful
+- Gesture Detector                               
+- Navegação entre páginas: MaterialPageRoute
+
+
+<img src = 'imagens/atm.gif' width='350'/> 
+
+
 
 ## Getting Started
 
